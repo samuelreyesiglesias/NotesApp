@@ -1,0 +1,54 @@
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp\bin\Debug\netstandard2.0\NotesApp.deps.json
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp\bin\Debug\netstandard2.0\NotesApp.dll
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\NotesApp.csprojAssemblyReference.cache
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\NotesApp.csproj.CoreCompileInputs.cache
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\NotesApp.AssemblyInfoInputs.cache
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\NotesApp.AssemblyInfo.cs
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp\bin\Debug\netstandard2.0\NotesApp.pdb
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\NoteEntryPage.xaml.g.cs
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\NotesApp.dll
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\NotesApp.pdb
+D:\NotesApp\NotesApp\NotesApp\bin\Debug\netstandard2.0\NotesApp.deps.json
+D:\NotesApp\NotesApp\NotesApp\bin\Debug\netstandard2.0\NotesApp.dll
+D:\NotesApp\NotesApp\NotesApp\bin\Debug\netstandard2.0\NotesApp.pdb
+D:\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\NotesApp.csprojAssemblyReference.cache
+D:\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\NoteEntryPage.xaml.g.cs
+D:\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\NotesApp.csproj.CoreCompileInputs.cache
+D:\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\NotesApp.AssemblyInfoInputs.cache
+D:\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\NotesApp.AssemblyInfo.cs
+D:\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\NotesApp.dll
+D:\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\NotesApp.pdb
+E:\NotesApp\NotesApp\NotesApp\bin\Debug\netstandard2.0\NotesApp.deps.json
+E:\NotesApp\NotesApp\NotesApp\bin\Debug\netstandard2.0\NotesApp.dll
+E:\NotesApp\NotesApp\NotesApp\bin\Debug\netstandard2.0\NotesApp.pdb
+E:\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\NotesApp.csprojAssemblyReference.cache
+E:\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\NoteEntryPage.xaml.g.cs
+E:\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\NotesApp.csproj.CoreCompileInputs.cache
+E:\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\NotesApp.AssemblyInfoInputs.cache
+E:\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\NotesApp.AssemblyInfo.cs
+E:\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\XamlC.stamp
+E:\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\NotesApp.dll
+E:\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\NotesApp.pdb
+E:\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\NotesPage.xaml.g.cs
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\NotesApp.csprojAssemblyReference.cache
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\NoteEntryPage.xaml.g.cs
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\NotesPage.xaml.g.cs
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\NotesApp.csproj.CoreCompileInputs.cache
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\NotesApp.AssemblyInfoInputs.cache
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\NotesApp.AssemblyInfo.cs
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\NotesApp.dll
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\NotesApp.pdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp\bin\Debug\netstandard2.0\NotesApp.deps.json
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp\bin\Debug\netstandard2.0\NotesApp.dll
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp\bin\Debug\netstandard2.0\NotesApp.pdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\XamlC.stamp

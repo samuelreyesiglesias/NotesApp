@@ -1,0 +1,376 @@
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\bin\Debug\NotesApp.Android.dll
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\bin\Debug\NotesApp.Android.pdb
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\bin\Debug\com.companyname.apk
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\bin\Debug\com.companyname-Signed.apk
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\bin\Debug\NotesApp.dll
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\bin\Debug\NotesApp.pdb
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\NotesApp.Android.nuget.stamp
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\NotesApp.Android.csprojAssemblyReference.cache
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\libraryimports.cache.stamp
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\res.flag
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\NotesApp.Android.csproj.CoreCompileInputs.cache
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\XamlC.stamp
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\NotesApp.Android.csproj.CopyComplete
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\NotesApp.Android.dll
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\NotesApp.Android.pdb
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\android\bin\com.companyname.apk
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\res\layout\tabbar.xml
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\res\layout\toolbar.xml
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\res\values\styles.xml
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\res\values\colors.xml
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\res\mipmap-anydpi-v26\icon.xml
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\res\mipmap-anydpi-v26\icon_round.xml
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\res\mipmap-hdpi\icon.png
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\res\mipmap-hdpi\launcher_foreground.png
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\res\mipmap-mdpi\icon.png
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\res\mipmap-mdpi\launcher_foreground.png
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\res\mipmap-xhdpi\icon.png
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\res\mipmap-xhdpi\launcher_foreground.png
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\res\mipmap-xxhdpi\icon.png
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\res\mipmap-xxhdpi\launcher_foreground.png
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\res\mipmap-xxxhdpi\icon.png
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\res\mipmap-xxxhdpi\launcher_foreground.png
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\R.cs.flag
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\R.txt
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\uploadflags.txt
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\bin\Debug\FormsViewGroup.pdb
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\bin\Debug\Mono.Android.pdb
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\bin\Debug\mscorlib.pdb
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\bin\Debug\System.Core.pdb
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\bin\Debug\System.pdb
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\bin\Debug\System.Xml.pdb
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\bin\Debug\System.Xml.Linq.pdb
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\bin\Debug\System.Net.Http.pdb
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\bin\Debug\System.Runtime.Serialization.pdb
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\bin\Debug\System.ServiceModel.Internals.pdb
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\bin\Debug\System.Data.pdb
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\bin\Debug\System.Numerics.pdb
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\bin\Debug\System.Transactions.pdb
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\bin\Debug\System.IO.Compression.pdb
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\bin\Debug\System.ComponentModel.Composition.pdb
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\bin\Debug\System.Web.Services.pdb
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\bin\Debug\Mono.Security.pdb
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\NotesApp.Android.pdb
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\FormsViewGroup.pdb
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\Mono.Android.pdb
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\mscorlib.pdb
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\System.Core.pdb
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\System.pdb
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\System.Xml.pdb
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\System.Xml.Linq.pdb
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\Xamarin.Forms.Core.pdb
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\Xamarin.Forms.Platform.Android.pdb
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\Xamarin.Forms.Xaml.pdb
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\System.Net.Http.pdb
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\System.Runtime.Serialization.pdb
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\System.ServiceModel.Internals.pdb
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\System.Data.pdb
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\System.Numerics.pdb
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\System.Transactions.pdb
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\System.IO.Compression.pdb
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\System.IO.Compression.FileSystem.pdb
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\System.ComponentModel.Composition.pdb
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\System.Web.Services.pdb
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\Mono.Security.pdb
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\bin\Debug\NotesApp.dll.mdb
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\NotesApp.dll.mdb
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\android\assets\NotesApp.dll.mdb
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\android\assets\FormsViewGroup.pdb
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\android\assets\Mono.Android.pdb
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\android\assets\Mono.Security.pdb
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\android\assets\mscorlib.pdb
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\android\assets\NotesApp.Android.pdb
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\android\assets\System.ComponentModel.Composition.pdb
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\android\assets\System.Core.pdb
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\android\assets\System.Data.pdb
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\android\assets\System.IO.Compression.FileSystem.pdb
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\android\assets\System.IO.Compression.pdb
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\android\assets\System.Net.Http.pdb
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\android\assets\System.Numerics.pdb
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\android\assets\System.pdb
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\android\assets\System.Runtime.Serialization.pdb
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\android\assets\System.ServiceModel.Internals.pdb
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\android\assets\System.Transactions.pdb
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\android\assets\System.Web.Services.pdb
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\android\assets\System.Xml.Linq.pdb
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\android\assets\System.Xml.pdb
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\android\assets\Xamarin.Forms.Core.pdb
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\android\assets\Xamarin.Forms.Platform.Android.pdb
+C:\SQLPAOLA\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\android\assets\Xamarin.Forms.Xaml.pdb
+D:\NotesApp\NotesApp\NotesApp.Android\bin\Debug\NotesApp.Android.dll
+D:\NotesApp\NotesApp\NotesApp.Android\bin\Debug\NotesApp.Android.pdb
+D:\NotesApp\NotesApp\NotesApp.Android\bin\Debug\com.companyname.apk
+D:\NotesApp\NotesApp\NotesApp.Android\bin\Debug\com.companyname-Signed.apk
+D:\NotesApp\NotesApp\NotesApp.Android\bin\Debug\NotesApp.dll
+D:\NotesApp\NotesApp\NotesApp.Android\bin\Debug\NotesApp.pdb
+D:\NotesApp\NotesApp\NotesApp.Android\bin\Debug\NotesApp.dll.mdb
+D:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+D:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\NotesApp.Android.nuget.stamp
+D:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\NotesApp.Android.csprojAssemblyReference.cache
+D:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\libraryimports.cache.stamp
+D:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\res.flag
+D:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\NotesApp.Android.csproj.CoreCompileInputs.cache
+D:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\XamlC.stamp
+D:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\NotesApp.Android.csproj.CopyComplete
+D:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\NotesApp.Android.dll
+D:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\NotesApp.Android.pdb
+D:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\android\bin\com.companyname.apk
+D:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\res\layout\tabbar.xml
+D:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\res\layout\toolbar.xml
+D:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\res\values\styles.xml
+D:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\res\values\colors.xml
+D:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\res\mipmap-anydpi-v26\icon.xml
+D:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\res\mipmap-anydpi-v26\icon_round.xml
+D:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\res\mipmap-hdpi\icon.png
+D:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\res\mipmap-hdpi\launcher_foreground.png
+D:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\res\mipmap-mdpi\icon.png
+D:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\res\mipmap-mdpi\launcher_foreground.png
+D:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\res\mipmap-xhdpi\icon.png
+D:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\res\mipmap-xhdpi\launcher_foreground.png
+D:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\res\mipmap-xxhdpi\icon.png
+D:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\res\mipmap-xxhdpi\launcher_foreground.png
+D:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\res\mipmap-xxxhdpi\icon.png
+D:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\res\mipmap-xxxhdpi\launcher_foreground.png
+D:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\R.cs.flag
+D:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\R.txt
+D:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\uploadflags.txt
+D:\NotesApp\NotesApp\NotesApp.Android\bin\Debug\FormsViewGroup.pdb
+D:\NotesApp\NotesApp\NotesApp.Android\bin\Debug\Mono.Android.pdb
+D:\NotesApp\NotesApp\NotesApp.Android\bin\Debug\mscorlib.pdb
+D:\NotesApp\NotesApp\NotesApp.Android\bin\Debug\System.Core.pdb
+D:\NotesApp\NotesApp\NotesApp.Android\bin\Debug\System.pdb
+D:\NotesApp\NotesApp\NotesApp.Android\bin\Debug\System.Xml.pdb
+D:\NotesApp\NotesApp\NotesApp.Android\bin\Debug\System.Xml.Linq.pdb
+D:\NotesApp\NotesApp\NotesApp.Android\bin\Debug\Xamarin.Forms.Core.pdb
+D:\NotesApp\NotesApp\NotesApp.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+D:\NotesApp\NotesApp\NotesApp.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\NotesApp\NotesApp\NotesApp.Android\bin\Debug\System.Net.Http.pdb
+D:\NotesApp\NotesApp\NotesApp.Android\bin\Debug\System.Runtime.Serialization.pdb
+D:\NotesApp\NotesApp\NotesApp.Android\bin\Debug\System.ServiceModel.Internals.pdb
+D:\NotesApp\NotesApp\NotesApp.Android\bin\Debug\System.Data.pdb
+D:\NotesApp\NotesApp\NotesApp.Android\bin\Debug\System.Numerics.pdb
+D:\NotesApp\NotesApp\NotesApp.Android\bin\Debug\System.Transactions.pdb
+D:\NotesApp\NotesApp\NotesApp.Android\bin\Debug\System.IO.Compression.pdb
+D:\NotesApp\NotesApp\NotesApp.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
+D:\NotesApp\NotesApp\NotesApp.Android\bin\Debug\System.ComponentModel.Composition.pdb
+D:\NotesApp\NotesApp\NotesApp.Android\bin\Debug\System.Web.Services.pdb
+D:\NotesApp\NotesApp\NotesApp.Android\bin\Debug\Mono.Security.pdb
+D:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\NotesApp.Android.pdb
+D:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\FormsViewGroup.pdb
+D:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\Mono.Android.pdb
+D:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\mscorlib.pdb
+D:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\System.Core.pdb
+D:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\System.pdb
+D:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\System.Xml.pdb
+D:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\System.Xml.Linq.pdb
+D:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\Xamarin.Forms.Core.pdb
+D:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\Xamarin.Forms.Platform.Android.pdb
+D:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\Xamarin.Forms.Xaml.pdb
+D:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\System.Net.Http.pdb
+D:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\System.Runtime.Serialization.pdb
+D:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\System.ServiceModel.Internals.pdb
+D:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\System.Data.pdb
+D:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\System.Numerics.pdb
+D:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\System.Transactions.pdb
+D:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\System.IO.Compression.pdb
+D:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\System.IO.Compression.FileSystem.pdb
+D:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\System.ComponentModel.Composition.pdb
+D:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\System.Web.Services.pdb
+D:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\Mono.Security.pdb
+D:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\NotesApp.dll.mdb
+D:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\android\assets\NotesApp.dll.mdb
+D:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\android\assets\NotesApp.Android.pdb
+E:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+E:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\NotesApp.Android.csprojAssemblyReference.cache
+E:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\libraryimports.cache.stamp
+E:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\res.flag
+E:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\NotesApp.Android.dll
+E:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\NotesApp.Android.pdb
+E:\NotesApp\NotesApp\NotesApp.Android\bin\Debug\NotesApp.Android.dll
+E:\NotesApp\NotesApp\NotesApp.Android\bin\Debug\NotesApp.Android.pdb
+E:\NotesApp\NotesApp\NotesApp.Android\bin\Debug\com.companyname.apk
+E:\NotesApp\NotesApp\NotesApp.Android\bin\Debug\com.companyname-Signed.apk
+E:\NotesApp\NotesApp\NotesApp.Android\bin\Debug\NotesApp.dll
+E:\NotesApp\NotesApp\NotesApp.Android\bin\Debug\NotesApp.pdb
+E:\NotesApp\NotesApp\NotesApp.Android\bin\Debug\NotesApp.dll.mdb
+E:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\NotesApp.Android.nuget.stamp
+E:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\NotesApp.Android.csproj.CoreCompileInputs.cache
+E:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\XamlC.stamp
+E:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\NotesApp.Android.csproj.CopyComplete
+E:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\android\bin\com.companyname.apk
+E:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\res\layout\tabbar.xml
+E:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\res\layout\toolbar.xml
+E:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\res\values\styles.xml
+E:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\res\values\colors.xml
+E:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\res\mipmap-anydpi-v26\icon.xml
+E:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\res\mipmap-anydpi-v26\icon_round.xml
+E:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\res\mipmap-hdpi\icon.png
+E:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\res\mipmap-hdpi\launcher_foreground.png
+E:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\res\mipmap-mdpi\icon.png
+E:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\res\mipmap-mdpi\launcher_foreground.png
+E:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\res\mipmap-xhdpi\icon.png
+E:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\res\mipmap-xhdpi\launcher_foreground.png
+E:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\res\mipmap-xxhdpi\icon.png
+E:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\res\mipmap-xxhdpi\launcher_foreground.png
+E:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\res\mipmap-xxxhdpi\icon.png
+E:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\res\mipmap-xxxhdpi\launcher_foreground.png
+E:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\R.cs.flag
+E:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\R.txt
+E:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\uploadflags.txt
+E:\NotesApp\NotesApp\NotesApp.Android\bin\Debug\FormsViewGroup.pdb
+E:\NotesApp\NotesApp\NotesApp.Android\bin\Debug\Mono.Android.pdb
+E:\NotesApp\NotesApp\NotesApp.Android\bin\Debug\mscorlib.pdb
+E:\NotesApp\NotesApp\NotesApp.Android\bin\Debug\System.Core.pdb
+E:\NotesApp\NotesApp\NotesApp.Android\bin\Debug\System.pdb
+E:\NotesApp\NotesApp\NotesApp.Android\bin\Debug\System.Xml.pdb
+E:\NotesApp\NotesApp\NotesApp.Android\bin\Debug\System.Xml.Linq.pdb
+E:\NotesApp\NotesApp\NotesApp.Android\bin\Debug\Xamarin.Forms.Core.pdb
+E:\NotesApp\NotesApp\NotesApp.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+E:\NotesApp\NotesApp\NotesApp.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+E:\NotesApp\NotesApp\NotesApp.Android\bin\Debug\System.Net.Http.pdb
+E:\NotesApp\NotesApp\NotesApp.Android\bin\Debug\System.Runtime.Serialization.pdb
+E:\NotesApp\NotesApp\NotesApp.Android\bin\Debug\System.ServiceModel.Internals.pdb
+E:\NotesApp\NotesApp\NotesApp.Android\bin\Debug\System.Data.pdb
+E:\NotesApp\NotesApp\NotesApp.Android\bin\Debug\System.Numerics.pdb
+E:\NotesApp\NotesApp\NotesApp.Android\bin\Debug\System.Transactions.pdb
+E:\NotesApp\NotesApp\NotesApp.Android\bin\Debug\System.IO.Compression.pdb
+E:\NotesApp\NotesApp\NotesApp.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
+E:\NotesApp\NotesApp\NotesApp.Android\bin\Debug\System.ComponentModel.Composition.pdb
+E:\NotesApp\NotesApp\NotesApp.Android\bin\Debug\System.Web.Services.pdb
+E:\NotesApp\NotesApp\NotesApp.Android\bin\Debug\Mono.Security.pdb
+E:\NotesApp\NotesApp\NotesApp\bin\Debug\netstandard2.0\NotesApp.dll
+E:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\NotesApp.Android.pdb
+E:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\FormsViewGroup.pdb
+E:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\Mono.Android.pdb
+E:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\mscorlib.pdb
+E:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\System.Core.pdb
+E:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\System.pdb
+E:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\System.Xml.pdb
+E:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\System.Xml.Linq.pdb
+E:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\Xamarin.Forms.Core.pdb
+E:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\Xamarin.Forms.Platform.Android.pdb
+E:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\Xamarin.Forms.Xaml.pdb
+E:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\System.Net.Http.pdb
+E:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\System.Runtime.Serialization.pdb
+E:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\System.ServiceModel.Internals.pdb
+E:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\System.Data.pdb
+E:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\System.Numerics.pdb
+E:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\System.Transactions.pdb
+E:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\System.IO.Compression.pdb
+E:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\System.IO.Compression.FileSystem.pdb
+E:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\System.ComponentModel.Composition.pdb
+E:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\System.Web.Services.pdb
+E:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\Mono.Security.pdb
+E:\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\NotesApp.dll.mdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\bin\Debug\NotesApp.Android.dll
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\bin\Debug\NotesApp.Android.pdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\bin\Debug\com.companyname.apk
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\bin\Debug\com.companyname-Signed.apk
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\bin\Debug\NotesApp.dll
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\bin\Debug\NotesApp.pdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\bin\Debug\NotesApp.dll.mdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\NotesApp.Android.nuget.stamp
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\NotesApp.Android.csprojAssemblyReference.cache
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\libraryimports.cache.stamp
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\res.flag
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\NotesApp.Android.csproj.CoreCompileInputs.cache
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\XamlC.stamp
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\NotesApp.Android.csproj.CopyComplete
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\NotesApp.Android.dll
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\NotesApp.Android.pdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\android\bin\com.companyname.apk
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\res\layout\tabbar.xml
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\res\layout\toolbar.xml
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\res\values\styles.xml
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\res\values\colors.xml
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\res\mipmap-anydpi-v26\icon.xml
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\res\mipmap-anydpi-v26\icon_round.xml
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\res\mipmap-hdpi\icon.png
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\res\mipmap-hdpi\launcher_foreground.png
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\res\mipmap-mdpi\icon.png
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\res\mipmap-mdpi\launcher_foreground.png
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\res\mipmap-xhdpi\icon.png
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\res\mipmap-xhdpi\launcher_foreground.png
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\res\mipmap-xxhdpi\icon.png
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\res\mipmap-xxhdpi\launcher_foreground.png
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\res\mipmap-xxxhdpi\icon.png
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\res\mipmap-xxxhdpi\launcher_foreground.png
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\R.cs.flag
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\R.txt
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\uploadflags.txt
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\bin\Debug\FormsViewGroup.pdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\bin\Debug\Mono.Android.pdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\bin\Debug\Mono.Security.pdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\bin\Debug\mscorlib.pdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\bin\Debug\System.Core.pdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\bin\Debug\System.Data.pdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\bin\Debug\System.IO.Compression.pdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\bin\Debug\System.Net.Http.pdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\bin\Debug\System.Numerics.pdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\bin\Debug\System.pdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\bin\Debug\System.Runtime.Serialization.pdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\bin\Debug\System.Transactions.pdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\bin\Debug\System.Web.Services.pdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\bin\Debug\System.Xml.Linq.pdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\bin\Debug\System.Xml.pdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\android\assets\NotesApp.dll.mdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\android\assets\FormsViewGroup.pdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\android\assets\Mono.Android.pdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\android\assets\Mono.Security.pdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\android\assets\mscorlib.pdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\android\assets\NotesApp.Android.pdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\android\assets\System.ComponentModel.Composition.pdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\android\assets\System.Core.pdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\android\assets\System.Data.pdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\android\assets\System.IO.Compression.FileSystem.pdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\android\assets\System.IO.Compression.pdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\android\assets\System.Net.Http.pdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\android\assets\System.Numerics.pdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\android\assets\System.pdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\android\assets\System.Runtime.Serialization.pdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\android\assets\System.ServiceModel.Internals.pdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\android\assets\System.Transactions.pdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\android\assets\System.Web.Services.pdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\android\assets\System.Xml.Linq.pdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\android\assets\System.Xml.pdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\android\assets\Xamarin.Forms.Core.pdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\android\assets\Xamarin.Forms.Platform.Android.pdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\NotesApp.dll.mdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\FormsViewGroup.pdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\Mono.Android.pdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\Mono.Security.pdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\mscorlib.pdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\NotesApp.Android.pdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\System.ComponentModel.Composition.pdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\System.Core.pdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\System.Data.pdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\System.IO.Compression.FileSystem.pdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\System.IO.Compression.pdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\System.Net.Http.pdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\System.Numerics.pdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\System.pdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\System.Runtime.Serialization.pdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\System.ServiceModel.Internals.pdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\System.Transactions.pdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\System.Web.Services.pdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\System.Xml.Linq.pdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\System.Xml.pdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\Xamarin.Forms.Core.pdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\Xamarin.Forms.Platform.Android.pdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\Xamarin.Forms.Xaml.pdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp\bin\Debug\netstandard2.0\NotesApp.dll
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\bin\Debug\NotesApp.dll.mdb
+C:\Projectspaola\New folder\NotesApp\NotesApp\NotesApp.Android\obj\Debug\81\linksrc\NotesApp.dll.mdb
